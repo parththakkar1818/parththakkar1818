@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **advanced-learning-algorithms (by Andrew NG on Coursera)**
+- 🌱 I’m currently learning **Unsupervised Learning, Recommenders, Reinforcement Learning (by Andrew NG on Coursera)**
 
 - 📫 How to reach me **parththakkar1208@gmail.com**
 
